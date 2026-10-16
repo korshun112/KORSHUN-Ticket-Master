@@ -28,7 +28,7 @@ class KorshunBot(commands.Bot):
     async def on_ready(self):
         print(f"🤖 KORSHUN Ticket Master запущен как {self.user} (ID: {self.user.id})")
         await self.change_presence(
-            activity=discord.Activity(type=discord.ActivityType.watching, name="за тикетами | KORSHUN BOTS")
+            activity=discord.Activity(type=discord.ActivityType.watching, name="тикеты | KORSHUN BOTS")
         )
 bot = KorshunBot()
 bot.run(TOKEN)
