@@ -58,7 +58,7 @@ _Разработано студией **KORSHUN BOTS**_
 - ✅ Разрешено: личное, учебное, некоммерческое использование
 - ❌ Запрещено: коммерческое использование без разрешения
 
-См. LICENSE для подробностей.
+См. [LICENSE](https://github.com/korshun112/KORSHUN-Ticket-Master/blob/main/LICENSE) для подробностей.
 
 <div align="center">
 © 2026 KORSHUN BOTS. All Rights Reserved.
